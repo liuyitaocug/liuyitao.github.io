@@ -5,14 +5,13 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve -l -H localhost`. If you change this file, please restart the 
 # server process.
-
 # Basic Site Settings
-locale                   : "en-US"
-site_theme               : "default"
-title                    : "刘奕焘的个人主页"
-title_separator          : "-"
-name                     : &name "刘奕焘"
-description              : &description "刘奕焘，工程学院地质工程专业2022级本科生。平均学分绩点3.93，位居专业前三，获国家奖学金等7项荣誉。学科竞赛方面获全国大学生数学建模竞赛湖北省一等奖、全国大学生数学竞赛三等奖等国家级奖项3项、省级5项。主持参与实验室开放基金项目，大创等科研项目，申请国家发明专利2项，获软著1项，发表北大核心期刊论文1篇。担任砺行宣讲团讲师，累计志愿服务87小时，带队获"我把地大带回家"校级实践活动一等奖等奖项。"
+locale: "en-US"
+site_theme: "default"
+title: "刘奕焘的个人主页"
+title_separator: "-"
+name: &name "刘奕焘"
+description: &description "刘奕焘，工程学院地质工程专业2022级本科生。平均学分绩点3.93，位居专业前三，获国家奖学金等7项荣誉。"
 url                      : https://liuyitaocug.github.io/liuyitao.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
