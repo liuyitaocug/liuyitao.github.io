@@ -6,44 +6,43 @@ redirect_from:
   - /about/
   - /about.html
 ---
+**欢迎来到我的个人主页**
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+您好！我是**刘奕焘**，一名就读于**中国地质大学（武汉）地质工程专业**的本科生。自踏入地质工程领域以来，我始终保持对岩土力学与数值模拟的浓厚兴趣，希望通过实践与研究，为工程地质灾害防治贡献力量。
+---
+### 关于我  
+- **学校与专业**：中国地质大学（武汉），地质工程专业  
+- **年级与方向**：大三，专注于斜坡稳定性与地质灾害研究  
+- **技能储备**：熟练掌握Python、MATLAB编程；熟悉FLAC、ABAQUS等数值模拟软件；具备岩土力学试验操作经验。
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+---
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+### 研究与项目经历  
+1. **含碎石黏土斜坡剪切特性试验研究**  
+    含碎石黏土斜坡因其土体中碎石含量沿垂直方向逐渐增大而形成层状结构，这种空间变化的级配特征在剪切破坏过程中引发明显的“结构效应”，极大地影响斜坡的力学行为与破坏模式。深入理解这一效应，对于滑坡失稳机理的阐明以及斜坡稳定性分析方法的优化具有重要意义。本研究以实际残积碎石土斜坡的典型结构为依据，通过模拟不同含石量分布与排列特征，揭示了含碎石黏土在不同结构条件下的应力–应变响应及破坏路径差异，为工程地质灾害防治提供了新的理论支撑​​。
+    项目通过对比分析含石量沿切向和垂向分布的多种结构模型，发现含石量的均值水平、区间差异度及分区排列方式对抗剪强度、内摩擦角和粘聚力具有显著影响。在相同法向应力作用下，不同结构的试样破坏面位置与变形模式存在系统差异，揭示了结构单元间相互作用对整体稳定性的贡献机制；同时，本研究建立的结构效应定性框架，有助于将土体级配异质性纳入斜坡稳定性评价指标之中，从而提升预测精度与设计可靠性​​。
+2. **高位远程滑坡–涌浪灾害链数值模拟**  
+   高位远程滑坡常伴随滑体崩解、涌浪生成和洪水扩散等多灾种联动过程，传统单一灾种模拟难以全面刻画灾害链的演化规律。本项目创新性地将有限元–离散元耦合方法（FDEM）与欧拉–拉格朗日方法（CEL）相结合，实现了对可破裂岩体在滑坡崩解与水体相互作用全过程的高精度数值模拟，填补了多物理场耦合模拟在高位救援预警和工程设计中的空白​​。
+    在模型中，滑坡体的碎裂过程与水体的湍流涌浪同时演化，研究了岩体抗拉强度、摩擦系数及库区水深等关键参数对滑体运动特性、涌浪波高与爬升高度的影响规律。基于二维与三维模拟结果，本研究进一步提出了“失稳模式–运动约束–含水条件”三维度灾害链分类框架，为高位远程滑坡灾害的风险评估与应急响应提供了可量化的参数体系和方法论   
+4. **岩溶区抽水蓄能工程非均质岩组力学参数研究**  
+   抽水蓄能电站多建于碳酸盐岩区，岩溶发育导致岩组呈现复杂的空间非均质性，直接影响库岸边坡稳定性与渗漏风险。然而，目前工程地质调查多侧重于整体岩体或层面倾角分析，缺乏对岩溶非均质性本身的定量表征与力学参数研究。本项目系统定义了“溶蚀率”“溶蚀均匀系数”“变异系数”等表征岩组非均质性的指标，并基于大量实验数据，量化了这些非均质参数对单轴抗压强度和弹性模量的影响机理​​。
+    研究发现，当溶蚀率和均匀系数处于不同组合状态时，岩样的应力–应变特征曲线及破坏方式呈现出规律性变化；在引入 Hoek–Brown 准则的基础上，本研究推导了考虑非均质因子的经验公式，实现了对溶蚀岩体力学参数的快速估算，为岩溶区蓄能电站工程地质风险评价与设计提供了定量化工具​​。
+    通过上述三大课题的深入研究，本人不仅丰富了岩土工程中结构异质性与多灾种联动的理论体系，也为实际工程中的斜坡加固、溃坝风险评估及蓄能电站边坡稳定性设计提供了关键技术支撑。。
+---
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+### 技术博客与学习笔记  
+我会在博客中分享：  
+- 岩土力学实验操作要点  
+- Python与MATLAB数值模拟脚本示例  
+- 国内外最新地质工程研究动态  
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+---
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+### 联系方式  
+- **电子邮件**：lyt2003@cug.edu.cn  
+- **微信／QQ**：15632105248  2453395259
 
-**Markdown generator**
+感谢您的访问！欢迎交流合作，共同探索地质工程中的前沿问题。
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
