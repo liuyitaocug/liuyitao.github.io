@@ -23,11 +23,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "刘奕焘"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "一名精神状态良好的大学生"
   location         : "湖北省武汉市"
-  employer         : "Red Brick University"
+  employer         : "中国地质大学（武汉）"
   uri              : # URL
   email            : "lyt2003@cug.edu.cn" 
 
