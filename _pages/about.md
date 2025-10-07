@@ -46,11 +46,10 @@ author_profile: true
 - 熟练使用 MATLAB、Python、SPSS、GIS、Origin、FLAC2D、ANSYS
 - 擅长数值模拟与数据分析
 - 兴趣爱好：游泳、乒乓球、心理学与科技阅读、公益活动
-
 main:
-  - title: "关于我"
-    url: /about/
-  - title: "Publications"
-    url: /publications/
-  - title: "Teaching"
-    url: /teaching/
+- title: "关于我"
+  url: /about/
+- title: "Publications"
+  url: /publications/
+- title: "Teaching"
+  url: /teaching/
