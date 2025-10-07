@@ -48,10 +48,3 @@ author_profile: true
 - 兴趣爱好：游泳、乒乓球、心理学与科技阅读、公益活动
 ---
 
-main:
-- title: "关于我"
-  url: /about/
-- title: "Publications"
-  url: /publications/
-- title: "Teaching"
-  url: /teaching/
