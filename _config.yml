@@ -351,3 +351,12 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+
+main:
+- title: "关于我"
+  url: /about/
+- title: "Publications"
+  url: /publications/
+- title: "Teaching"
+  url: /teaching/
