@@ -352,11 +352,11 @@ compress_html:
   ignore:
     envs: development
 
-
 main:
-- title: "关于我"
-  url: /about/
-- title: "Publications"
-  url: /publications/
-- title: "Teaching"
-  url: /teaching/
+  - title: "关于我"
+    url: /about/
+  - title: "Publications"
+    url: /publications/
+  - title: "Teaching"
+    url: /teaching/
+
